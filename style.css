@@ -1,0 +1,31 @@
+/* entire page settings */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* body */
+
+/* Navigation bar */
+
+/* header/banner section */
+
+/* footer */
+
+/* Hoverable links CSS trick */
+
+/* Media queries */
+@media only screen and (min-width: 320px) and (max-width: 400px) {}
+
+@media only screen and (min-width: 400px) and (max-width: 600px) {}
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {}
+
+@media only screen and (min-width: 1000px) and (max-width: 2000px) {}
+
+@media print {
+    nav {
+        display: none;
+    }
+}
